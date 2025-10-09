@@ -1,7 +1,7 @@
 import Course from "../models/Course.js"
 
 
-// Get All Courses
+// Get All Courses 
 export const getAllCourse = async (req, res) => {
     try {
 
